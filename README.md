@@ -21,6 +21,7 @@ ISOL = 1
 ########################
 Usage
 ########################
+
 Add the following flag to your INCAR file:
 
 LSHAPEZ = .TRUE.

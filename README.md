@@ -26,4 +26,4 @@ Add the following flag to your INCAR file:
 
 LSHAPEZ = .TRUE.
 
-When enabled, the code reads a file named S_Z in CHG/EXTPOT format.
+When enabled, the code reads a file named S_Z in EXTPOT format.
